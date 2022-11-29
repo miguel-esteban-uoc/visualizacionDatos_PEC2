@@ -1,4 +1,4 @@
-# Dataset PEC2 de la asignatura de Visualización de datos de la UOC
+# Datasest PEC2 de la asignatura de Visualización de Datos del Mater de Ciencia de Datos de la UOC
 
 ## Turismo: Número de pernoctaciones
 
